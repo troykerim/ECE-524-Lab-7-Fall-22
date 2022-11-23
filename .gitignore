@@ -1,1 +1,9 @@
-
+hardware/*
+!hardware/part1_constr
+!hardware/part1_src
+!hardware/part2_constr
+!hardware/part2_src
+!hardware/part3_constr
+!hardware/part3_src
+!hardware/part4_src
+!hardware/TCL
